@@ -1,2 +1,2 @@
-"# ProductSpace" 
-"# ProductSpace" 
+A well-known platform that lets users share and discover new products varying from the latest mobile apps, websites, to tech products or services in the market.
+Studying and observing current market trends to choose “winning” items with a high potential for success and increased sales. The primary purpose is to find a product at a low price in one marketplace and sell it at a competitive price with a reasonable profit margin in the Amazon marketplace.
