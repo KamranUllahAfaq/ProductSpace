@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.product:hover{
+    background: linear-gradient(90deg, rgba(249,249,249,1) 0%, rgba(233,233,233,1) 100%);
+    padding: 30;
+    cursor: pointer;
+}
+.innerContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

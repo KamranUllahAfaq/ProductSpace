@@ -1,0 +1,14 @@
+.navItem{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    margin: 0px;
+    padding: 15px;
+}
+
+.navItem:hover{
+    background-color: rgb(236, 236, 236);
+    cursor: pointer;
+}
+
